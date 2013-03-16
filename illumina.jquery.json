@@ -1,0 +1,27 @@
+{
+  "name": "illumina",
+  "title": "Illumina",
+  "description": "Illumina is a jQuery plugin that is a modern, responsive take on lightbox.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/natansh/illumina",
+  "author": {
+    "name": "Natansh Verma",
+    "email": "natansh.verma@gmail.com",
+    "url": "http://www.natansh.in"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/natansh/illumina.git"
+  },
+  "bugs": "https://github.com/natansh/illumina/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/natansh/illumina/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "1.9.1"
+  },
+  "keywords": []
+}
