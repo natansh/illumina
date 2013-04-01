@@ -1,0 +1,11 @@
+/*! Illumina - v0.1.0 - 2013-04-01
+* https://github.com/natansh/illumina
+* Copyright (c) 2013 Natansh Verma; Licensed MIT */
+.il-container {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  background: #ccc;
+}

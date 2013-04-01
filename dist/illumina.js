@@ -1,11 +1,6 @@
-/*
- * illumina
- * https://github.com/natansh/illumina
- *
- * Copyright (c) 2013 Natansh Verma
- * Licensed under the MIT license.
- */
-
+/*! Illumina - v0.1.0 - 2013-04-01
+* https://github.com/natansh/illumina
+* Copyright (c) 2013 Natansh Verma; Licensed MIT */
 ;(function($) {
 
   var pluginPrefix='il-',
